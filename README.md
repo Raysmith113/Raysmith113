@@ -100,15 +100,15 @@
       <br />MySQL
     </td>
   </tr>
-  <td align="center" width="128">
+  <tr>
+    <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/django-icon.svg"
         alt="icon"
         width="65"
         height="65" />
-      <br />Sass
+      <br />Django
     </td>
-  <tr>
     <td align="center" width="128">
       <img
         src="https://skillicons.dev/icons?i=html"
