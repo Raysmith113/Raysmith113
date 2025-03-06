@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/py-icon.svg"
+        src="https://techstack-generator.vercel.app/python-icon.svg"
         alt="icon"
         width="65"
         height="65" />
@@ -100,6 +100,14 @@
       <br />MySQL
     </td>
   </tr>
+  <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/django-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Sass
+    </td>
   <tr>
     <td align="center" width="128">
       <img
